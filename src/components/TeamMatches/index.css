@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.rcb {
+  background-image: linear-gradient(to top, #1e293b, #a4261d);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.csk {
+  background-image: linear-gradient(to top, #1e293b, #f7db00);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.mi {
+  background-image: linear-gradient(to top, #1e293b, #13418b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.rr {
+  background-image: linear-gradient(to top, #1e293b, #da237b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.srh {
+  background-image: linear-gradient(to top, #1e293b, #f26d22);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.kxp {
+  background-image: linear-gradient(to top, #1e293b, #d91c1f);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.dc {
+  background-image: linear-gradient(to top, #1e293b, #4f5db0);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.kkr {
+  background-image: linear-gradient(to top, #1e293b, #5755a7);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+
+.latestMatch-heading {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 20px;
+}

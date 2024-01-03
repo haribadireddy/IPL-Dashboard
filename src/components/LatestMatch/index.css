@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.latestMatch-container {
+  background-color: #0f172a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+.team-details-container {
+  color: #ffffff;
+}
+.match-details-container{
+  color: #ffffff;
+  text-align: right;
+}
